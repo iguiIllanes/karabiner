@@ -2,7 +2,7 @@
 
 * This is a fork from [@mxtbr's](https://github.com/mxstbr/karabiner) Karabiner configuration *
 
-This repo contains custom configurations made to mxtbr's script in order to adapt them to my workflow
+This repo contains custom configurations made on top of mxtbr's script in order to adapt them to my workflow
 
 
 If you like TypeScript and want your Karabiner configuration maintainable & type-safe, you probably want to use the custom configuration DSL / generator I created in `rules.ts` and `utils.ts`!
